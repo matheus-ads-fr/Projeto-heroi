@@ -1,4 +1,4 @@
-let heroi = "Neguinho";
+let heroi = "Trovão";
 let xp = 7500;
 let nivel = "";
 
